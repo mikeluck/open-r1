@@ -171,8 +171,10 @@ cython_debug/
 .pypirc
 
 # Temp folders
-data/
+data/deepseek-r1
 wandb/
 logs/
 eval_results/
 results/
+/notebooks/demo
+.DS_Store
